@@ -7,7 +7,7 @@ Este módulo es una prueba de calculadora básica escrita en Go. Proporciona fun
 Para instalar el módulo, puedes clonar el repositorio y luego compilar el código:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/Sebas5158R/calculator
 cd calculator
 go build
 ```
@@ -41,7 +41,3 @@ func main() {
 - `Restar(a int, b int) int`: Devuelve la resta de `b` de `a`.
 - `Multiplicar(a int, b int) int`: Devuelve el producto de `a` y `b`.
 - `Dividir(a int, b int) (int, error)`: Devuelve el cociente de `a` y `b`. Si `b` es 0, devuelve un error.
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para discutir cualquier cambio que te gustaría realizar.

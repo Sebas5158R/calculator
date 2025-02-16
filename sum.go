@@ -4,7 +4,7 @@ package calculator
 var logMessage = "[LOG]"
 
 // variable publica (inicia con mayuscula)
-var Version = "1.0"
+var Version = "1.0.0"
 
 // Funcion privada (inicia con minuscula), solo se puede usar dentro del paquete
 // internalSum recibe un numero entero y devuelve el numero - 1
